@@ -62,6 +62,3 @@ print(p)
 ```
 
 ![](kommuner_files/figure-gfm/kort-1.png)<!-- -->![](kommuner_files/figure-gfm/kort-2.png)<!-- -->![](kommuner_files/figure-gfm/kort-3.png)<!-- -->![](kommuner_files/figure-gfm/kort-4.png)<!-- -->![](kommuner_files/figure-gfm/kort-5.png)<!-- -->![](kommuner_files/figure-gfm/kort-6.png)<!-- -->![](kommuner_files/figure-gfm/kort-7.png)<!-- -->![](kommuner_files/figure-gfm/kort-8.png)<!-- -->![](kommuner_files/figure-gfm/kort-9.png)<!-- -->![](kommuner_files/figure-gfm/kort-10.png)<!-- -->![](kommuner_files/figure-gfm/kort-11.png)<!-- -->![](kommuner_files/figure-gfm/kort-12.png)<!-- -->![](kommuner_files/figure-gfm/kort-13.png)<!-- -->![](kommuner_files/figure-gfm/kort-14.png)<!-- -->
-
-Note that the `echo = FALSE` parameter was added to the code chunk to
-prevent printing of the R code that generated the plot.
